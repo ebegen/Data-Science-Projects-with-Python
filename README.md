@@ -1,2 +1,2 @@
-# boston-house-price-prediction
+# Machine Learning Projects with Python
 
