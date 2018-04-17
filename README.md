@@ -14,4 +14,6 @@ Note: Data used in the projects is for demonstration purposes only.
 	- [Predicting Advertisement](https://github.com/ebegen/Data-Science-Projects-with-Python/blob/master/AdvertisementPrediction/AdvertisementPrediction.ipynb): In this project we will be working with a fake advertising data set, indicating whether or not a particular internet user clicked on an Advertisement. We will try to create a model that will predict whether or not they will click on an ad based off the features of that user.
 
 	- [Lending Club](https://github.com/ebegen/Data-Science-Projects-with-Python/blob/master/LendingClub/LendingClub.ipynb): For this project we will be exploring publicly available data from LendingClub.com. Lending Club connects people who need money (borrowers) with people who have money (investors).
+	
+	- [Iris Flower](https://github.com/ebegen/Data-Science-Projects-with-Python/blob/master/IrisFlower/IrisFlower.ipynb): In this project we will use the support vector machine method in examining the famous iris data set.
 
