@@ -18,4 +18,8 @@ Note: Data used in the projects is for demonstration purposes only.
 	- [Iris Flower](https://github.com/ebegen/Data-Science-Projects-with-Python/blob/master/IrisFlower/IrisFlower.ipynb): In this project we will use the support vector machine method in examining the famous iris data set.
 	
 	- [Clustering Universities](https://github.com/ebegen/Data-Science-Projects-with-Python/blob/master/ClusteringUniversities/ClusteringUniversities.ipynb): For this project we will attempt to use KMeans Clustering to cluster Universities into to two groups, Private and Public.
+	
+_Tools: scikit-learn, Pandas, Numpy, Seaborn, Matplotlib_
+
+- ### Natural Language Processing
 
