@@ -16,4 +16,6 @@ Note: Data used in the projects is for demonstration purposes only.
 	- [Lending Club](https://github.com/ebegen/Data-Science-Projects-with-Python/blob/master/LendingClub/LendingClub.ipynb): For this project we will be exploring publicly available data from LendingClub.com. Lending Club connects people who need money (borrowers) with people who have money (investors).
 	
 	- [Iris Flower](https://github.com/ebegen/Data-Science-Projects-with-Python/blob/master/IrisFlower/IrisFlower.ipynb): In this project we will use the support vector machine method in examining the famous iris data set.
+	
+	- [Clustering Universities](https://github.com/ebegen/Data-Science-Projects-with-Python/blob/master/ClusteringUniversities/ClusteringUniversities.ipynb): For this project we will attempt to use KMeans Clustering to cluster Universities into to two groups, Private and Public.
 
