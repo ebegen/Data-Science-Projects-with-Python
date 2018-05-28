@@ -19,7 +19,7 @@ Note: Data used in the projects is for demonstration purposes only.
 	
 	- [Clustering Universities](https://github.com/ebegen/Data-Science-Projects-with-Python/blob/master/ClusteringUniversities/ClusteringUniversities.ipynb): For this project we will attempt to use KMeans Clustering to cluster Universities into to two groups, Private and Public.
 	
-_Tools: scikit-learn, Pandas, Numpy, Seaborn, Matplotlib_
+     _Tools: scikit-learn, Pandas, Numpy, Seaborn, Matplotlib_
 
 - ### Natural Language Processing
 
