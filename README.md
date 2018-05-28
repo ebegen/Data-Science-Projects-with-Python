@@ -23,3 +23,6 @@ Note: Data used in the projects is for demonstration purposes only.
 
 - ### Natural Language Processing
 
+	- [Classify Yelp Reviews](https://github.com/ebegen/Data-Science-Projects-with-Python/blob/master/ClassifyYelpReviews/ClassifyYelpReviews.ipynb): In this NLP project we will be attempting to classify Yelp Reviews into 1 star or 5 star categories based off the text content in the reviews. 
+	
+     _Tools: NLTK, scikit-learn, Pandas, Numpy, Seaborn, Matplotlib_
