@@ -9,7 +9,7 @@ Note: Data used in the projects is for demonstration purposes only.
 
 * ### Deep Learning
 
-	- [Generate TV Script with RNN](https://github.com/ebegen/Data-Science-Projects-with-Python/blob/master/BostonHousePrediction/BostonPrediction.ipynb): A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
+	- [Generate TV Script with RNN](https://github.com/ebegen/Data-Science-Projects-with-Python/blob/master/project-tv-script-generation/dlnd_tv_script_generation.ipynb): A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
 
 * ### Machine Learning
 
