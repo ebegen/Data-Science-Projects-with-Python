@@ -7,6 +7,10 @@ Note: Data used in the projects is for demonstration purposes only.
 
 # Contents
 
+* ### Deep Learning
+
+	- [Generate TV Script with RNN](https://github.com/ebegen/Data-Science-Projects-with-Python/blob/master/BostonHousePrediction/BostonPrediction.ipynb): A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
+
 * ### Machine Learning
 
 	- [Predicting Boston Housing Prices](https://github.com/ebegen/Data-Science-Projects-with-Python/blob/master/BostonHousePrediction/BostonPrediction.ipynb): A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
@@ -21,7 +25,7 @@ Note: Data used in the projects is for demonstration purposes only.
 	
      _Tools: scikit-learn, Pandas, Numpy, Seaborn, Matplotlib_
 
-- ### Natural Language Processing
+	> ### Natural Language Processing
 
 	- [Classify Yelp Reviews](https://github.com/ebegen/Data-Science-Projects-with-Python/blob/master/ClassifyYelpReviews/ClassifyYelpReviews.ipynb): In this NLP project we will be attempting to classify Yelp Reviews into 1 star or 5 star categories based off the text content in the reviews. 
 	
